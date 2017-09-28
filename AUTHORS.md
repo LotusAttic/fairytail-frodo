@@ -4,9 +4,9 @@
 
 Daidson Fonseca Alves
 
-=== Group NN: group name ===
+=== Group 03: frodo ===
 
 * Lucas Vinnicius Santos De Melo, @lucasvmelo
-* Nome Aluno 2 Completo, @githubuser2
+* Joao Gabriel Cara Tiago, @Joaocara  
 * ...
 
